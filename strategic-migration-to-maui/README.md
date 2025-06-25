@@ -1,4 +1,4 @@
- [![PRs Welcome](banner.png)](https://www.zazz.io/)
+ [![BannerImage](banner.png)](https://www.zazz.io/)
 # Xamarin to MAUI migration Dos and Don'ts with Code of Conduct Checklist
 Migrating from **Xamarin.Forms** to **.NET MAUI (Multi-platform App UI)** marks a pivotal shift in cross-platform mobile development. As [Xamarin reaches its end of support](https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin), MAUI emerges as its modern successor, offering a unified project structure, enhanced performance, and native access across Android, iOS, macOS, and Windows.
 
