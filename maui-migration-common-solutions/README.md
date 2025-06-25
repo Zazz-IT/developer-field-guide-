@@ -54,7 +54,7 @@ Solution: Check for MAUI-compatible versions or alternatives. Consider replacing
 
 * **Challenge:** CI/CD pipelines and build configurations may break. 
 * **Solution:** Update build scripts, pipelines, and ensure MAUI workloads are installed on build agents.
- [![Illustration](commonchallenges.jpeg)
+ [![Illustration](commonchallenges.jpeg)](https://www.zazz.io/)
 
 **9. Performance Tuning**
 
